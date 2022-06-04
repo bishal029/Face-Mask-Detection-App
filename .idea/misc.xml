@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DEFENCE/MSc project/FaceMaskDetector-Android-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/DEFENCE/MSc project/FaceMaskDetector-Android-master/app/src/main/res/layout/layout.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Desktop/Face-Mask Detection/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Desktop/Face-Mask Detection/app/src/main/res/layout/layout.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/drawable-v24/btn_gradient.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/drawable-v24/layout_gradient.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/drawable-v24/trans.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/layout/activity_live.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Desktop/MSc project/FaceMaskDetector-Android-master/app/src/main/res/layout/layout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
